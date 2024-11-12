@@ -16,6 +16,7 @@ Many projects, organizations, and governments use Failsafe. If you're a happy us
 {:.columns}
 * [Airlift](https://github.com/airlift/airlift)
 * [Apache Geronimo](https://geronimo.apache.org/)
+* [Apache Kyuubi](https://kyuubi.apache.org/)
 * [Apache Pulsar](https://pulsar.apache.org/)
 * [Apache Samza](http://samza.apache.org/)
 * [Apache Unomi](https://unomi.apache.org/)
