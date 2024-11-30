@@ -80,6 +80,7 @@ Many projects, organizations, and governments use Failsafe. If you're a happy us
 * [ConsenSys](http://www.consensys.net)
 * [Coupang](https://rocketyourcareer.usa.coupang.com/)
 * [CQSE](https://www.cqse.eu/)
+* [DevITJobs](https://devitjobs.com/)
 * [DiDi Chuxing](https://didiglobal.com/)
 * [Digimarc](https://www.digimarc.com)
 * [Digital.ai](https://digital.ai/)
